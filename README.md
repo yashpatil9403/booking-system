@@ -12,7 +12,7 @@ Mockito, JaCoCo for coverage, SonarQube for code quality.
 You need JDK 17 and Maven installed.
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/yashpatil9403/booking-system>
 cd booking-system
 mvn spring-boot:run
 ```
